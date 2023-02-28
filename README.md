@@ -1,10 +1,10 @@
 # AD8611 - Artificial Intelligence II Laboratory
 
-<div style="text-align: center;">
+<p align="center">
 <img src="aids_hod_image.jpg"><br>
 <b>In Dr. T. Kalaichelvi, M. E. PhD. </b><br>
 <i>Its just good business.</i>
-</div>
+</p>
 
 
 
