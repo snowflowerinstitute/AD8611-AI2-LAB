@@ -2,3 +2,5 @@ notebook
 numpy
 pandas
 pgmpy
+matplotlib
+networkx
