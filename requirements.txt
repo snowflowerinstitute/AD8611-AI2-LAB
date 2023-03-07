@@ -4,3 +4,5 @@ pandas
 pgmpy
 matplotlib
 networkx
+seaborn
+scikit-learn
